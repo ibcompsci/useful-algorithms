@@ -1,5 +1,5 @@
 /**
- * Program that populates an array with random numbers
+ * Populate an array with random numbers
  */
 
 import java.util.*;
