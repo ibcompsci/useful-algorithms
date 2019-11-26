@@ -19,12 +19,12 @@ public class ListToArray {
 
         int[] arrayNumbers = new int[numbers.size()];
 
-        // populate array with contents of List
+        // Populate array with contents of List
         for(int i = 0; i < numbers.size(); i++) {
             arrayNumbers[i] = numbers.get(i);
         }
 
-        // output contents of array
+        // Output contents of array
         for (int i : arrayNumbers)
             System.out.println(i);
     }
