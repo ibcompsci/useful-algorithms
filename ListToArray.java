@@ -1,5 +1,5 @@
 /*
- * Lists to array
+ * List to array
  */
 
 import java.util.ArrayList;
